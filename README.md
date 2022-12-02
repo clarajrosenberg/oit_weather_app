@@ -8,4 +8,4 @@ In order to run this successfully, you will need to create two API keys and stor
 
 This is an expansion of CodeWithTomi/FreeCodeCamp's tutorial [Getting Weather Information](https://www.youtube.com/watch?v=SqvVm3QiQVk&t=1494s).
 
-I coded this as one of multiple mini-projects during [Out in Tech](https://outintech.com/)'s fall 2022 mentorship program. I chose this project to gain practice making API calls as part of a larger pipeline.
+I coded this as one of multiple mini-projects during [Out in Tech](https://outintech.com/)'s fall 2022 mentorship program. I chose this project to gain practice making basic API calls as part of a larger pipeline.
